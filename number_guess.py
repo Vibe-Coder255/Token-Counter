@@ -19,7 +19,7 @@ while True:
     user_guess = int(user_guess)
 
     if user_guess == random_number:
-        print("You got it!")
+        print("You got it right!")
         break
     else:
         print("You got it wrong! Better luck next time!")
